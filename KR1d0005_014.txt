@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮詳解
-#+DATE: 2015-09-23 09:37:21
-#+PROPERTY: JUAN 14
+#+DATE: 2015-08-24 22:07:22.658712
+#+PROPERTY: ID KR1d0005
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十四
 <pb:KR1d0005_WYG_014-1a>¶
 欽定四庫全書¶
 　周禮詳解卷十四¶
@@ -416,4 +418,3 @@
 　¶
 　¶
 　周禮詳解卷十四¶
-
